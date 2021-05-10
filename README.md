@@ -1,1 +1,1 @@
-# 博客_joe模板文件
+# typecho-joe模板文件
